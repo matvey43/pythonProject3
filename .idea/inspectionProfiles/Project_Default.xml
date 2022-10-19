@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="back.routers.shames" />
+          <option value="back.routers.user_router" />
+          <option value="back.routers.user_router.UserList" />
+          <option value="back.routers.user_router.User" />
+          <option value="back.routers.user_router.UpdateUserSchema" />
+          <option value="back.main.user_router" />
+          <option value="str.__or__" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
